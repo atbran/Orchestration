@@ -1,0 +1,148 @@
+{
+  "schema": 1,
+  "status": "DOCUMENTATION_READY",
+  "ao_runtime_validation": "NOT_RUN",
+  "generated_utc": "2026-09-08T18:42:23.0337519Z",
+  "files": [
+    {
+      "path": "AO-SETUP.md",
+      "bytes": 5830,
+      "sha256": "d0e2d965ac7d796e44ce15c13ccc15a293906c2ed0c18fe179865ece8df198ec"
+    },
+    {
+      "path": "config/project-config.fragment.json",
+      "bytes": 638,
+      "sha256": "47029034f11e959506d3acf7b1a55c6252ce1a27bf5d9b92d6d8286674bdeb3e"
+    },
+    {
+      "path": "MIGRATION-MAP.md",
+      "bytes": 3868,
+      "sha256": "bd10d96aaebd7dff8ce90880973858a34d4f87b0f2588b097b32b28244e67881"
+    },
+    {
+      "path": "MODELS-AND-LIMITS.md",
+      "bytes": 4072,
+      "sha256": "b058cf81d14043332aa64f56838ca67e2db28df4b358e25cd088a6cfae2feea5"
+    },
+    {
+      "path": "ORCHESTRATOR-RULES.md",
+      "bytes": 3031,
+      "sha256": "6a0ed29eb956c743d276228ebbdeb17a0ec56ba01a4fa8e9dd7b67fd013d4ddb"
+    },
+    {
+      "path": "PROJECT-RULES.md",
+      "bytes": 3798,
+      "sha256": "d0ee594f658b01fb76189b789b40212c2c10a3103427a18b4b194e1e7f57e9a4"
+    },
+    {
+      "path": "prompts/BOOTSTRAP.txt",
+      "bytes": 866,
+      "sha256": "01ac12f745e9643b24164aaded2f2fcc81844d23847bcbb751a4206b35ae86e0"
+    },
+    {
+      "path": "prompts/ORCHESTRATOR.txt",
+      "bytes": 617,
+      "sha256": "6a127f9d4846a6868d3ccdac2489f36b890f1e2d26cd34a0e0d0825a1c75996a"
+    },
+    {
+      "path": "prompts/README.md",
+      "bytes": 747,
+      "sha256": "7c3cd5d5ebae899fa8d8a4a4f6b057f241f47637fd621610990dc11e47826f4a"
+    },
+    {
+      "path": "prompts/REVIEWER.txt",
+      "bytes": 604,
+      "sha256": "451474c44f5219e85bb80cd9fffd9da1df8b464c7db7ce4e9ae004a435c766b3"
+    },
+    {
+      "path": "prompts/WORKER.txt",
+      "bytes": 533,
+      "sha256": "24c591faa103d4de3a73558d795dc223beded6025ebdd1aa0cf47311eb6b2d5c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2940,
+      "sha256": "e7d3a571360dc231f934e233a9b90d8720569107f64330b469caf8ea8ecb7562"
+    },
+    {
+      "path": "roles/PLANNER.md",
+      "bytes": 1722,
+      "sha256": "43faefddbbe83f6086073a7ae5cf840c8880e32cb4f87c43d24ef8e6d790e751"
+    },
+    {
+      "path": "roles/QA.md",
+      "bytes": 1778,
+      "sha256": "8c83021254472294414ce013886e3859451d984148c0efcd191048b29e2b1a51"
+    },
+    {
+      "path": "roles/REVIEWER.md",
+      "bytes": 1860,
+      "sha256": "e4d85d4af5d49e4bd6b48fd18f1140bd4772cb2497e307b0f57cc96657678b08"
+    },
+    {
+      "path": "roles/WORKER.md",
+      "bytes": 1973,
+      "sha256": "61632b67efcda6d2214e9228a044c86f506dabdd96c976cce47531f22c1098de"
+    },
+    {
+      "path": "SOURCE-INVENTORY.json",
+      "bytes": 1712,
+      "sha256": "915ba00d22558561e0fe1d5bc6fe590739bdbb1138d9fa4b7c51f96018704f26"
+    },
+    {
+      "path": "SOURCES.md",
+      "bytes": 2777,
+      "sha256": "40cd9aceed8ee0b4c4ec7fa2dc981a90ed838634e37f1329eb73d98df5ddc46a"
+    },
+    {
+      "path": "START-HERE.md",
+      "bytes": 2974,
+      "sha256": "35f8dda0152e58fa25b8c18e9e22216c4547af65f2c03bc1817914a09a3e9a88"
+    },
+    {
+      "path": "templates/ASSIGNMENT.md",
+      "bytes": 1622,
+      "sha256": "6e1e3528ca63440306b4cd7695230380d3f2181196385134837b6641776d5587"
+    },
+    {
+      "path": "templates/FINAL-HANDOFF.md",
+      "bytes": 1283,
+      "sha256": "5739613b101d482094b503f32a9b26c657d17d942e854587b0f86297f0c67efc"
+    },
+    {
+      "path": "templates/PILOT-EVIDENCE.md",
+      "bytes": 1276,
+      "sha256": "5f2dbbd9d8621a90646711e279638456ab54f4cb4768a499f488a10c96d516c1"
+    },
+    {
+      "path": "templates/PROGRESS.md",
+      "bytes": 1212,
+      "sha256": "be10cacd53e16417924ec14d9c8306d120e1a9bff8316677f21354a4773e0c86"
+    },
+    {
+      "path": "templates/RUN-RECORD.md",
+      "bytes": 2073,
+      "sha256": "7eba93c57be73f3921477ce861d39449ac96b549f407e7dd8d43512723521663"
+    },
+    {
+      "path": "templates/WORKER-HANDOFF.md",
+      "bytes": 993,
+      "sha256": "74bd0159f7eb97d71f2cbce014fe4bf7ee7116f5f498a775924369a244802460"
+    },
+    {
+      "path": "Validate-Pack.ps1",
+      "bytes": 3721,
+      "sha256": "57e560c9e0c1e4ca2a8bf9e1335300c4880a4b4b9667de50ddad141a42071cf4"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 5408,
+      "sha256": "5251874f6c76ac0a683744049a09a196af45662f7b1627b94fc67e0b5033942e"
+    },
+    {
+      "path": "WORKFLOW.md",
+      "bytes": 6350,
+      "sha256": "21da116718e15c2d6e98ab18f90eef5610b75e6a77e5c2323c3c19bea9dc322a"
+    }
+  ]
+}

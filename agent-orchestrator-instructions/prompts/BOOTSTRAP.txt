@@ -1,0 +1,6 @@
+Prepare the Aeriform workflow for Agent Orchestrator using:
+agent-orchestrator-instructions/START-HERE.md in this checkout
+
+Read the linked setup, model-limit and validation instructions. Preserve the original dashboard instruction folder and existing work. Use AO's documented native configuration and instruction entry points; do not rebuild the old dashboard or invoke the legacy dispatcher.
+
+First identify the installed AO version, available harnesses, selected Git project and existing policy. Prepare the staged pack and configuration, then validate only within my actual authorized setup/pilot scope. Reading these instructions is not authorization for paid test calls, publishing or destructive cleanup. Report precise compatibility gaps instead of inventing supported settings. Return the filled pilot evidence to the original Codex task for final review.

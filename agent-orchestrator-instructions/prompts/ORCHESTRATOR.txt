@@ -1,0 +1,3 @@
+Read agent-orchestrator-instructions/ORCHESTRATOR-RULES.md and its required references in this workspace.
+
+Coordinate [feature/specification path] from [approved base SHA] with [authorized budget]. Use the staged instruction-pack version and create the run record at [assigned evidence path]. Preserve the planner/reviewer/independent-test/worker/gate sequence and exact model selection. Delegate only completed scoped assignments through AO. Verify every handoff and preserve recoverable evidence. Return an identified candidate to the original Codex task; do not merge or publish without my explicit authorization.

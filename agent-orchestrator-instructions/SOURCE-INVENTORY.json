@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "extracted_utc": "2026-09-08T14:43:06.8390293Z",
+  "purpose": "Extraction provenance, not runtime acceptance",
+  "sources": [
+    {
+      "path": "AGENT_INSTRUCTIONS.md",
+      "sha256": "1b03f8b6a1d09af98b798f6d4ccea60a253f66f15204d2e12307af28ac145cf3"
+    },
+    {
+      "path": "model-config.sh",
+      "sha256": "4467357b1317aca1bfdb1451cb0468f256c46cb4f73085ac165fef2e19ad9cc0"
+    },
+    {
+      "path": "dashboard-agent-instructions/01-product-and-acceptance.md",
+      "sha256": "b3f7bf87b54d5e2189b36834627918a3d1380d307e8f48f86c27cddff955f1d8"
+    },
+    {
+      "path": "dashboard-agent-instructions/02-coordinator-runbook.md",
+      "sha256": "827a230da8c1bb169bd4c5afa827e1a4fba3ae5560750d56cc26a14c179b1f7d"
+    },
+    {
+      "path": "dashboard-agent-instructions/08-testing-and-evidence.md",
+      "sha256": "9bd53accbd30e650955c25a678d3841d7be1850f6f6478981ea9e986d10efd67"
+    },
+    {
+      "path": "dashboard-agent-instructions/10-portability-and-github.md",
+      "sha256": "334cc9843498c568bcb2c8c5a95d90d7c9f614e967cd96f7d62f0a5a556a7ee6"
+    },
+    {
+      "path": "dashboard-agent-instructions/11-final-review.md",
+      "sha256": "6b5e34ebc849a33a12c191fcb8f4f7e6bafb3f1947a723d8f114ea0d7aa414c6"
+    },
+    {
+      "path": "dashboard-agent-instructions/12-agent-prompts.md",
+      "sha256": "a99aa4314b7908410e119a426f9c9584b69bbdb1e1ab9e1844f3d8769b104f02"
+    },
+    {
+      "path": "ISSUES-LOG.md",
+      "sha256": "f6415a8f758248a7ea1e6e43069c5053c4a3c03aacfbcdb5210dd03d087f4eba"
+    },
+    {
+      "path": "reports/dashboard-codex-review-20260908/CODEX-REVIEW.md",
+      "sha256": "7765fd4ce7ad755a0f1b4d28a53dd3bdc910b2658d707fdf8450802a64d9fda5"
+    }
+  ]
+}

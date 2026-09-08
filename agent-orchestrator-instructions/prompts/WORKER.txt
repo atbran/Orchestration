@@ -1,0 +1,3 @@
+Read agent-orchestrator-instructions/PROJECT-RULES.md and agent-orchestrator-instructions/roles/WORKER.md, then the complete assignment at [assignment path].
+
+Verify the assigned AO workspace, base, model, plan hash and exact allowed files before editing. Implement the approved slice, report public milestones, run the required real checks and preserve failures honestly. Return the worker handoff to [coordinator/session]. You are not the final acceptance reviewer and may not delegate or invoke the legacy orchestration pipeline.

@@ -1,0 +1,17 @@
+{
+  "defaultBranch": "main",
+  "worker": {
+    "agent": "opencode",
+    "agentConfig": {
+      "model": "opencode/glm-5.3"
+    }
+  },
+  "orchestrator": {
+    "agent": "claude-code",
+    "agentConfig": {
+      "model": "claude-opus-5"
+    }
+  },
+  "agentRulesFile": "agent-orchestrator-instructions/PROJECT-RULES.md",
+  "orchestratorRules": "Read agent-orchestrator-instructions/ORCHESTRATOR-RULES.md and its required references before delegating. If the files are absent or unreadable, report NOT_READY. Use the assigned base and exact file scopes; preserve independent review, budgets and final acceptance by the original Codex task."
+}
